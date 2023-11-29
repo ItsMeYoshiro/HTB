@@ -1,7 +1,7 @@
 # Devvortex
 
 ## Enumeração
-Primeiramente, iremos iniciar com o NMAP que é uma ferramente desenvolvida para realizar varreduras de portas e mapear dispositivos conectados a uma rede, o Nmap é uma poderosa utilidade de linha de comando que fornece informações detalhadas sobre hosts, serviços e sistemas operacionais em uma rede. Seus recursos incluem detecção de dispositivos, varredura de portas, identificação de serviços em execução, detecção de firewalls e análise de vulnerabilidades. Nessa situação, usei uma varredura simples para verificar quais portas estavam abertas.
+Primeiramente, iremos iniciar com o NMAP que é uma ferramenta desenvolvida para realizar varreduras de portas e mapear dispositivos conectados a uma rede, o Nmap é uma poderosa utilidade de linha de comando que fornece informações detalhadas sobre hosts, serviços e sistemas operacionais em uma rede. Seus recursos incluem detecção de dispositivos, varredura de portas, identificação de serviços em execução, detecção de firewalls e análise de vulnerabilidades. Nessa situação, usei uma varredura simples para verificar quais portas estavam abertas.
 
 ![](https://i.imgur.com/Rcquds3.png)
 
