@@ -264,5 +264,6 @@ Após isso, acesse ```https://10.10.11.241/shell.php``` e você poderá acessar 
 ![](https://i.imgur.com/vkVb7Il.png)
 
 Com isso, chegamos ao final de mais uma máquina! Lembre-se, todo o processo é bastate árduo e tentei ao máximo realizar de maneira didática! Até a próxima!
+
 ![](https://i.imgur.com/ptEpqXs.png)
 
